@@ -22,8 +22,8 @@ package net.technicpack.launchercore;
 import net.technicpack.autoupdate.IBuildNumber;
 
 public class TechnicConstants {
-    public static final String technicURL = "http://mirror.technicpack.net/Technic/";
-    public static final String technicVersions = technicURL + "version/";
+    public static final String technicURL = "https://launcher.craftnetwork.eu.org/";
+    public static final String technicVersions = technicURL + "versions/";
 
     private static IBuildNumber buildNumber;
     private static String userAgent;
